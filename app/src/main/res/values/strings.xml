@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sensores</string>
+    <string name="btn_acelerometro">Acelerômetro</string>
+    <string name="btn_TTS">Text-To-Speak</string>
+    <string name="btn_STT">Speak-To-Text</string>
+    <string name="btn_todos_sensores">Sensores</string>
+    <string name="sensores">Sensores</string>
+    <string name="informe_o_texto">Informe o texto</string>
+    <string name="falar">Falar</string>
+</resources>
